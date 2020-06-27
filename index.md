@@ -4,3 +4,5 @@ Mr. Bean war die Hauptfigur einer Comedy Serie im britischen Fernsehen in den 90
 ** Fährt einen Mini
 ** Trägt einen braunen Anzug
 ** ist hinterlistig
+
+> nicht verständlich
